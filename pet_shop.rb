@@ -44,4 +44,14 @@ def pets_by_breed(shop, breed)
   return total
 end
 
-#test9
+#test9 CANNOT DO
+# def find_pet_by_name(pets)
+#   for pet in pets[:pets][:name]
+#     return pet
+#   end
+# end
+
+
+# for chicken in chicken_hashes
+#   p "#{chicken [:name]} is #{chicken [:age]}"
+# return name[:pets][0][:name]
