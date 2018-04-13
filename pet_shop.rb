@@ -33,7 +33,7 @@ def stock_count(stock)
   return stock[:pets].count
 end
 
-#test8
+#test8&9
 def pets_by_breed(shop, breed)
   i = 0
   total = []
@@ -43,3 +43,5 @@ def pets_by_breed(shop, breed)
   end
   return total
 end
+
+#test9
