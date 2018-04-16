@@ -90,14 +90,16 @@ def customer_can_afford_pet(customer, new_pet)
 end
 
 ## CALLING FROM TEST 8
-def sell_pet_to_customer(shop, pet, customer)
+# def sell_pet_to_customer(shop, pet, customer)
+# return customer_pet_count
+# return pets_sold
+# return customer_cash
+# return total_cas
+# end
 
-
-customer_process = {}
-
-
-return shop[:admin[:pets_sold]
-return shop [:admin][:total_cash]
-return customer [:pets].count
-return customer [:cash]
-end
+# customer_process = {}
+# return shop[:admin[:pets_sold]
+# return shop [:admin][:total_cash]
+# return customer [:pets].count
+# return customer [:cash]
+# end
